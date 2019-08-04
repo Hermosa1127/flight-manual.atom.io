@@ -76,7 +76,7 @@ atom-text-editor::shadow .highlight.my-linter {
 }
 ```
 
-Check out the [find-and-replace](https://github.com/atom/find-and-replace/blob/95351f261bc384960a69b66bf12eae8002da63f9/stylesheets/find-and-replace.less#L9-L29) package for another example of using `::shadow` to pierce the shadow DOM.
+Check out the [find-and-replace](https://github.com/atom/find-and-replace/blob/95351f261bc384960a69b66bf12eae8002da63f9/stylesheets/replace.less#L9-L29) package for another example of using `::shadow` to pierce the shadow DOM.
 
 ###### `/deep/`
 
